@@ -1,13 +1,13 @@
 {
-	"name": "2020-react",
+	"name": "2020-react-forms",
 	"version": "1.0.0",
-	"description": "TheFlyingCoder's 2020 React framework",
+	"description": "TheFlyingCoder's 2020 React framework with react-hook-form integration",
 	"author": "Thomas Rowe",
 	"license": "MIT",
 	"main": "index.tsx",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/TheRealFlyingCoder/2020-React.git"
+		"url": "https://github.com/TheRealFlyingCoder/2020-react-forms.git"
 	},
 	"keywords": [
 		"React",
@@ -16,7 +16,8 @@
 		"Typescript",
 		"Storybook",
 		"Emotion.js",
-		"2020 React"
+		"2020 React",
+		"react-hook-form"
 	],
 	"engines": {
 		"node": ">=12.0.0",
