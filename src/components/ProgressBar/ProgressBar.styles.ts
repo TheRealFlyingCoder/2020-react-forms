@@ -72,13 +72,6 @@ const styles = (open: boolean): SerializedStyles => css`
 			display: flex;
 			align-items: center;
 
-			.tick {
-				width: 30px;
-				height: 30px;
-				margin-right: 12px;
-				display: none;
-			}
-
 			.step {
 				width: 30px;
 				height: 30px;
@@ -106,6 +99,7 @@ const styles = (open: boolean): SerializedStyles => css`
 				button {
 					text-align: left;
 					background: transparent;
+					border: none;
 					color: ${Theme.colours.primary};
 					padding: 0;
 					width: 100%;
@@ -117,7 +111,7 @@ const styles = (open: boolean): SerializedStyles => css`
 				}
 
 				.step {
-					display: none;
+					border: none;
 				}
 
 				.tick {

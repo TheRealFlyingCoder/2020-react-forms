@@ -20,7 +20,7 @@ const FormStep: React.FC<FormStepProps> = ({ active, formId, title, description,
 				{children}
 				<div className="formButtons">
 					{currentStep > 1 && (
-						<button onClick={() => setGlobalState({ currentStep: currentStep - 1 })}>Back</button>
+						<button type="button" onClick={() => setGlobalState({ currentStep: currentStep - 1 })}>Back</button>
 					)}
 					<button type="submit">Submit</button>
 				</div>
