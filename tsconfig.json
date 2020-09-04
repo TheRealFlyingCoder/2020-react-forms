@@ -24,6 +24,7 @@
       "components": ["components"],
       "layouts": ["layouts"],
       "utils": ["utils"],
+      "form": ["form"],
       "Routes": ["routes.ts"],
       "StateProvider": ["utils/StateProvider.tsx"],
       "Theme": ["App.theme.ts"]

@@ -8,7 +8,7 @@ const Header: React.FC = () => (
 	<header css={styles}>
 		<Link className="logo" to={Routes.Home.path}>
 			<img src={Logo} alt="React" />
-            2020 React
+            2020 React Forms
 		</Link>
 	</header>
 );

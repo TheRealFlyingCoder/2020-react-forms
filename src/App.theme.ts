@@ -10,6 +10,12 @@ const Theme = {
 	colours: {
 		primary: '#61DBFB',
 		secondary: '#32323C',
+		dark: '#43474E',
+		grey: '#999999',
+		offWhite: '#D1D1D1',
+		white: '#FAFAFA',
+		lightGrey: '#ECECEC',
+		borders: '#707274'
 	},
 	breakpoints,
 	mediaQueries: {
