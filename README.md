@@ -7,9 +7,9 @@ all the information about the tooling check out the readme there!
 
 Try try this package out using my npx installer:
 
-`npx 2020-react-form <project-name>`
+`npx 2020-react-forms <project-name>`
 
-[Check it out on npm](https://www.npmjs.com/package/2020-react-form)
+[Check it out on npm](https://www.npmjs.com/package/2020-react-forms)
 
 **React Hook Form**  
 
